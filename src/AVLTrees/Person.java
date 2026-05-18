@@ -1,4 +1,4 @@
-package a1;
+package AVLTrees;
 
 public abstract class Person {
     protected int id;
