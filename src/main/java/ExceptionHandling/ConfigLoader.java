@@ -1,4 +1,4 @@
-package ExceptionHandling_2;
+package ExceptionHandling;
 
 public class ConfigLoader {
 
